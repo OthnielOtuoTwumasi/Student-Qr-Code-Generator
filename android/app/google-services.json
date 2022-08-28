@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "264975033274",
+    "project_id": "student-qr-code-generator",
+    "storage_bucket": "student-qr-code-generator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264975033274:android:9a3c47b02ab86240577383",
+        "android_client_info": {
+          "package_name": "com.example.qrcode_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264975033274-hisoqn10n8meti9kfm7ib9jj15bs5qfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrcode_project",
+            "certificate_hash": "e35220ac8e32a34d8efdc9ca3d872bdac9ae169c"
+          }
+        },
+        {
+          "client_id": "264975033274-hmtlf6iddnah73mna3jitdlfqu2o5no5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsEKhUv9CmKuoga2VisRRCTTy1GpjxLb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264975033274-hmtlf6iddnah73mna3jitdlfqu2o5no5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
